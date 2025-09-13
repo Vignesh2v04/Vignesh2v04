@@ -13,7 +13,6 @@ I am actively seeking an internship where I can apply my skills to real-world ch
 | Python, Java, C++  | React.js, JavaScript  | Node.js, Express.js    | MongoDB   | Git, GitHub, VS Code             |
 | C, Solidity        | HTML5, CSS3           |                        |           | Android Studio, IntelliJ IDEA    |
 
-
 ---
 
 ### ✨ Key Projects
@@ -21,26 +20,14 @@ I am actively seeking an internship where I can apply my skills to real-world ch
 <table>
   <tr>
     <td width="50%">
+      <a href="https://github.com/Vignesh2v04/disease_risk_pridictor"><strong>Disease Risk Predictor (Web App)</strong></a>
+      <br />
+      <p>A full-stack web app I developed and modernized to predict disease risk using Python, Flask, and various ML models.</p>
+    </td>
+    <td width="50%">
       <a href="https://github.com/Vignesh2v04/MediChain-Innovate"><strong>MediChain-Innovate</strong></a>
       <br />
       <p>A blockchain-based solution (MERN + Solidity) to create a transparent and secure medical supply chain. <em>(Hackathon Project)</em></p>
-    </td>
-    <td width="50%">
-      <a href="[LINK-TO-YOUR-TELEMEDICINE-REPO]"><strong>Telemedicine Platform</strong></a>
-      <br />
-      <p>Developed a platform for virtual consultations and remote patient monitoring to improve healthcare accessibility.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-       <a href="[LINK-TO-YOUR-GREEN-CAMPUS-REPO]"><strong>Green Campus Management</strong></a>
-       <br />
-       <p>Designed a system to manage campus records digitally, including tree planting and STP maintenance tracking.</p>
-    </td>
-    <td width="50%">
-       <a href="https://github.com/Vignesh2v04/zoom-clone-main"><strong>Real-Time Zoom Clone</strong></a>
-      <br />
-      <p>A video conferencing application demonstrating skills in WebRTC and socket programming for real-time communication.</p>
     </td>
   </tr>
 </table>
@@ -57,5 +44,5 @@ I am actively seeking an internship where I can apply my skills to real-world ch
 
 ### 📫 How to Reach Me
 
-*   **Email:** [vignesh.h.v2004@gmail.com]
-*   **LinkedIn:** [http://linkedin.com/in/vignesh-h-v-283a472a4]
+*   **Email:** [your.email@example.com]
+*   **LinkedIn:** [Your LinkedIn Profile URL]
