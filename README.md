@@ -57,5 +57,5 @@ I am actively seeking an internship where I can apply my skills to real-world ch
 
 ### 📫 How to Reach Me
 
-*   **Email:** [your.email@example.com]
-*   **LinkedIn:** [Your LinkedIn Profile URL]
+*   **Email:** [vignesh.h.v2004@gmail.com]
+*   **LinkedIn:** [http://linkedin.com/in/vignesh-h-v-283a472a4]
